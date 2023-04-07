@@ -94,6 +94,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 
 - [CopyrightFreePhotos.com](http://www.copyrightfreephotos.com/) - Galleries of photos, each with their own theme.
 - [Foodiesfeed](https://www.foodiesfeed.com/license/) - A place to upload and find images of food without any copyright restriction.
+- [Free SVG](https://freesvg.org/) - Free SVG images, SVG cut files and transparent PNG with CC0 public domain license
 - [Internet Archive: PD search](https://archive.org/search.php?query=possible-copyright-status%3A%28NOT_IN_COPYRIGHT%29%20OR%20licenseurl%3A%28%22http%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fmark%2F1.0%2F%22%29%20OR%20licenseurl%3A%28%22https%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fzero%2F1.0%2F%22%29) - A huge amount of PD works.
 - [LibreStock](http://librestock.com/) - Search all public domain stock photo websites at once.
 - [MyStockPhotos](https://mystock.themeisle.com/license/) - A collection of images dedicated to the public domain through CC0.
@@ -106,8 +107,10 @@ Works in the public domain have no copyright restrictions. This can be the resul
 - [Skitterphoto](https://skitterphoto.com/license) - A place to upload and find CC0 images.
 - [SpaceX media](https://www.spacex.com/media) - SpaceX media **no longer** lists its images as being in the public domain. Even on [Flickr](https://web.archive.org/web/20170412063800/https://www.flickr.com/photos/spacex/16787988882/), it uses a CC-BY-NC license. However, old images (from [here](http://web.archive.org/web/20150328140645/http://www.spacex.com/media) to [here](http://web.archive.org/web/20191122175115/https://www.spacex.com/media)) had indeed been placed into the public domain and have no copyright restriction (including some images on [Flickr](https://web.archive.org/web/20170412063800/https://www.flickr.com/photos/spacex/16787988882/)).
 - [StockSnap](https://stocksnap.io/license) - Stock photography without any copyright restrictions.
+- [SVG Slith](https://svgsilh.com/) - Free SVG Images & Icons
 - Old images on [Unsplash](https://unsplash.com/). Unsplash **no longer** uses CC0, so new images are not in the public domain (but all images released before the license change still are).
 - [Wikimedia Commons: PD search](https://commons.wikimedia.org/w/index.php?search=filetype%3Aimage+incategory%3A%22cc-zero%7CPD-user%7CCC-PD-Mark%7CPD-Art+%28PD-old%29%7CPD-Art+%28PD-old-100%29%7CPD-Art+%28PD-old+default%29%7CPD-Art+%28PD-old-100-1923%29%7CPD-Art+%28PD-old-70-1923%29%7CLibrary+of+Congress-no+known+copyright+restrictions%7Cpublic+domain%22&title=Special%3ASearch&go=Go) - Millions of PD media (images, videos, sounds, ...).
+- [Public Domain Vectors] (https://publicdomainvectors.org/) - Royalty-free vector clip art, svg files and graphics
 
 ## Licenses
 
